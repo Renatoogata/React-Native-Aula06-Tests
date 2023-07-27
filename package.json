@@ -8,6 +8,7 @@
     "ios": "expo start --ios",
     "web": "expo start --web",
     "test": "jest",
+    "teste:coverage": "jest --coverage",
     "test:watch": "jest --watch",
     "test:coverage": "jest --coverage"
   },
